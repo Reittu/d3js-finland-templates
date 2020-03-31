@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    padding: 0;
+    margin: 0
+}
+
+path {
+    fill: #ccc;
+    stroke: #000;
+    stroke-width: .1px;
+}
+
+path:hover {
+    fill: red;
+}
+
+.tooltip {
+    color: #fff;
+    position: absolute;
+    padding: 10px;
+    background: rgba(0, 0, 0, 0.9);
+    box-shadow: 1px 1px 10px rgba(128, 128, 128, .6);
+    border: 0;
+    border-radius: 2px;
+    pointer-events: none
+}

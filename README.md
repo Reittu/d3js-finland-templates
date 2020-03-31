@@ -1,2 +1,2 @@
-# d3js-finland-templates
- Simple Finland templates for data visualization needs
+# D3.js Finland Templates
+TopoJSON data derived from [here](https://github.com/samateja/D3topoJson)
